@@ -1,7 +1,7 @@
 title: Hybrid Training
 description: A navigable five-day hybrid strength, hypertrophy, and conditioning program.
-url: ""
-baseurl: ""
+url: "https://guilhermealbert.github.io"
+baseurl: "/hybrid-training"
 lang: en
 markdown: kramdown
 permalink: pretty

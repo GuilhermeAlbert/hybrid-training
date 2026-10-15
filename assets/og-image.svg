@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Hybrid Training Program</title>
+  <desc id="description">Monochromatic social card for a strength, muscle, and conditioning program.</desc>
+  <rect width="1200" height="630" fill="#000"/>
+  <rect x="56" y="56" width="1088" height="518" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="92" y="120" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="8">FIVE DAY PROGRAM</text>
+  <text x="88" y="292" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-6">HYBRID</text>
+  <text x="88" y="410" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-6">TRAINING</text>
+  <line x1="92" y1="468" x2="1108" y2="468" stroke="#fff" stroke-width="2"/>
+  <text x="92" y="525" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="7">STRENGTH   •   MUSCLE   •   CONDITIONING</text>
+  <text x="1098" y="120" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" text-anchor="end">HT</text>
+</svg>

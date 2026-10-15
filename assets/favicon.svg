@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hybrid Training">
-  <rect width="64" height="64" rx="14" fill="#111827"/>
-  <path d="M14 24h7v16h-7zm29 0h7v16h-7zM8 28h6v8H8zm42 0h6v8h-6zm-29 1h22v6H21z" fill="#fff"/>
+  <rect width="64" height="64" rx="12" fill="#000"/>
+  <path d="M13 15h8v13h11V15h8v34h-8V36H21v13h-8V15zm29 0h17v8h-5v26h-8V23h-4v-8z" fill="#fff"/>
 </svg>
 

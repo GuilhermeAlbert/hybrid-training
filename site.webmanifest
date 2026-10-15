@@ -1,0 +1,16 @@
+{
+  "name": "Hybrid Training Program",
+  "short_name": "Hybrid Training",
+  "description": "A five-day hybrid strength, muscle, and conditioning program.",
+  "start_url": "/hybrid-training/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/hybrid-training/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
