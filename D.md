@@ -1,9 +1,18 @@
-# Workout D — Power and Conditioning
-
-[← Program index](README.md) · [Mobility](MOBILITY.md) · [Abs menu](ABS.md)
-
-**Target duration:** 45–60 minutes  
-**Route:** legs → chest → back and shoulders → core → cardio
+---
+layout: workout
+title: Workout D — Power and Conditioning
+category: Athletic performance
+summary: Controlled power, unilateral strength, trunk stability, and intervals.
+duration: 45–60 minutes
+route: Legs → chest → back and shoulders → core → cardio
+permalink: /D/
+previous_sheet:
+  label: Workout C
+  url: /C/
+next_sheet:
+  label: Workout E
+  url: /E/
+---
 
 Use moderate loads. Move quickly with control and stop each set before speed or technique deteriorates.
 

@@ -1,9 +1,18 @@
-# Workout C — Full-Body Hypertrophy
-
-[← Program index](README.md) · [Mobility](MOBILITY.md) · [Abs menu](ABS.md)
-
-**Target duration:** 45–60 minutes  
-**Route:** legs → chest and shoulders → back → arms → core
+---
+layout: workout
+title: Workout C — Full-Body Hypertrophy
+category: Hypertrophy
+summary: Moderate loads and controlled repetitions for balanced muscle growth.
+duration: 45–60 minutes
+route: Legs → chest and shoulders → back → arms → core
+permalink: /C/
+previous_sheet:
+  label: Workout B
+  url: /B/
+next_sheet:
+  label: Workout D
+  url: /D/
+---
 
 ## 1. Leg Press
 

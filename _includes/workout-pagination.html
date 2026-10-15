@@ -1,0 +1,18 @@
+<nav class="sheet-pagination" aria-label="Training sheet navigation">
+  {% if page.previous_sheet %}
+    <a class="pagination-link" href="{{ page.previous_sheet.url | relative_url }}">
+      <span aria-hidden="true">←</span>
+      <span><small>Previous</small>{{ page.previous_sheet.label }}</span>
+    </a>
+  {% else %}
+    <span></span>
+  {% endif %}
+
+  {% if page.next_sheet %}
+    <a class="pagination-link pagination-next" href="{{ page.next_sheet.url | relative_url }}">
+      <span><small>Next</small>{{ page.next_sheet.label }}</span>
+      <span aria-hidden="true">→</span>
+    </a>
+  {% endif %}
+</nav>
+

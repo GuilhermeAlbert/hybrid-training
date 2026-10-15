@@ -1,7 +1,15 @@
-
-# Abs Menu
-
-[← Program index](README.md) · [Mobility](MOBILITY.md)
+---
+layout: workout
+title: Abs Menu
+category: Optional core work
+summary: Choose one or two movements based on the trunk function you want to train.
+duration: 6–12 minutes
+route: Mat → cable station → pull-up bar
+permalink: /ABS/
+previous_sheet:
+  label: Mobility
+  url: /MOBILITY/
+---
 
 Choose **one or two exercises** after a workout, for a total of **4–6 working sets**. Avoid selecting two exercises from the same category on the same day. Quality and control matter more than speed.
 

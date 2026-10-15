@@ -1,9 +1,18 @@
-# Workout B — Posterior Chain and Pulling
-
-[← Program index](README.md) · [Mobility](MOBILITY.md) · [Abs menu](ABS.md)
-
-**Target duration:** 45–60 minutes  
-**Route:** legs → shoulders → back → arms → cardio
+---
+layout: workout
+title: Workout B — Posterior Chain and Pulling
+category: Strength and hypertrophy
+summary: Posterior-chain strength, vertical pulling, shoulders, and arms.
+duration: 45–60 minutes
+route: Legs → shoulders → back → arms → cardio
+permalink: /B/
+previous_sheet:
+  label: Workout A
+  url: /A/
+next_sheet:
+  label: Workout C
+  url: /C/
+---
 
 ## 1. Barbell Romanian Deadlift
 

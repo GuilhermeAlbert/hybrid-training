@@ -1,9 +1,15 @@
-# Workout A — Global Strength
-
-[← Program index](README.md) · [Mobility](MOBILITY.md) · [Abs menu](ABS.md)
-
-**Target duration:** 45–60 minutes  
-**Route:** legs → chest → back → arms → core
+---
+layout: workout
+title: Workout A — Global Strength
+category: Strength
+summary: Heavy compound lifts with balanced work for the entire body.
+duration: 45–60 minutes
+route: Legs → chest → back → arms → core
+permalink: /A/
+next_sheet:
+  label: Workout B
+  url: /B/
+---
 
 ## 1. Barbell Back Squat
 

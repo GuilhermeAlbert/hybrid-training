@@ -1,9 +1,18 @@
-# Workout E — Technical Volume
-
-[← Program index](README.md) · [Mobility](MOBILITY.md) · [Abs menu](ABS.md)
-
-**Target duration:** 45–60 minutes  
-**Route:** legs → chest and shoulders → back → arms → loaded carry
+---
+layout: workout
+title: Workout E — Technical Volume
+category: Technique and volume
+summary: Higher repetitions and controlled fatigue to complete the training week.
+duration: 45–60 minutes
+route: Legs → chest and shoulders → back → arms → loaded carry
+permalink: /E/
+previous_sheet:
+  label: Workout D
+  url: /D/
+next_sheet:
+  label: Mobility
+  url: /MOBILITY/
+---
 
 ## 1. Bulgarian Split Squat
 

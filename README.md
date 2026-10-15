@@ -1,4 +1,9 @@
-# Hybrid Training Program
+---
+layout: home
+title: Hybrid Training Program
+summary: Build strength, muscle, and conditioning with five focused full-body sessions that fit into a real gym week.
+permalink: /
+---
 
 A five-day full-body program designed to balance **strength, muscle growth, and conditioning** in **45–60 minute sessions**. Every workout includes legs, pushing, pulling, and arms, while the main training emphasis rotates throughout the week.
 
@@ -8,13 +13,13 @@ A five-day full-body program designed to balance **strength, muscle growth, and 
 
 | Session | Focus | Training sheet |
 |---|---|---|
-| A | Global strength | [Open Workout A](A.md) |
-| B | Posterior chain and pulling | [Open Workout B](B.md) |
-| C | Full-body hypertrophy | [Open Workout C](C.md) |
-| D | Power and conditioning | [Open Workout D](D.md) |
-| E | Technical volume | [Open Workout E](E.md) |
-| Mobility | Pre-workout preparation | [Open Mobility](MOBILITY.md) |
-| Abs | Choose your core work | [Open Abs Menu](ABS.md) |
+| A | Global strength | [Open Workout A]({{ '/A/' | relative_url }}) |
+| B | Posterior chain and pulling | [Open Workout B]({{ '/B/' | relative_url }}) |
+| C | Full-body hypertrophy | [Open Workout C]({{ '/C/' | relative_url }}) |
+| D | Power and conditioning | [Open Workout D]({{ '/D/' | relative_url }}) |
+| E | Technical volume | [Open Workout E]({{ '/E/' | relative_url }}) |
+| Mobility | Pre-workout preparation | [Open Mobility]({{ '/MOBILITY/' | relative_url }}) |
+| Abs | Choose your core work | [Open Abs Menu]({{ '/ABS/' | relative_url }}) |
 
 ## Suggested weekly schedule
 
@@ -32,7 +37,7 @@ The sheets follow a practical route through a typical gym: **legs → chest and 
 
 ## How to train
 
-- Start with the [mobility sequence](MOBILITY.md) and two light ramp-up sets of the first lift.
+- Start with the [mobility sequence]({{ '/MOBILITY/' | relative_url }}) and two light ramp-up sets of the first lift.
 - Finish most working sets with **1–3 repetitions in reserve**.
 - Rest **90–150 seconds** after heavy compound lifts and **45–75 seconds** after accessories.
 - Use controlled repetitions and the largest pain-free range of motion you can maintain.

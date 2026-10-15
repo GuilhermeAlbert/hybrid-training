@@ -1,7 +1,18 @@
-
-# Mobility — Full-Body Preparation
-
-[← Program index](README.md) · [Abs menu](ABS.md)
+---
+layout: workout
+title: Mobility — Full-Body Preparation
+category: Warm-up
+summary: A short full-body sequence to prepare ankles, hips, upper back, and shoulders.
+duration: 6–8 minutes
+route: Floor space and resistance band
+permalink: /MOBILITY/
+previous_sheet:
+  label: Workout E
+  url: /E/
+next_sheet:
+  label: Abs Menu
+  url: /ABS/
+---
 
 Complete one controlled round before every workout. The sequence takes approximately **6–8 minutes**. Stay within a pain-free range and do not add external load.
 

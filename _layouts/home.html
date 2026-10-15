@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="home-page">
+  <header class="hero">
+    <p class="eyebrow">Five-day full-body program</p>
+    <h1>{{ page.title }}</h1>
+    <p class="hero-copy">{{ page.summary }}</p>
+    <div class="hero-actions">
+      <a class="button button-primary" href="{{ '/A/' | relative_url }}">Start Workout A</a>
+      <a class="button" href="{{ '/MOBILITY/' | relative_url }}">Warm up first</a>
+    </div>
+  </header>
+
+  <div class="prose home-prose">
+    {{ content }}
+  </div>
+</article>
+

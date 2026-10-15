@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#111827">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <base href="{{ '/' | relative_url }}">
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="shell">
+        {% include site-nav.html %}
+      </div>
+    </header>
+
+    <main id="main-content" class="shell page-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell">
+        <p>Use the written cues as the primary reference. AI-generated images may contain inaccuracies.</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
